@@ -1,0 +1,6 @@
+projectKey=org.sonarqube:sonarqube-scanner
+serverUrl=http://192.168.0.101:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://192.168.0.101:9000/dashboard/index/org.sonarqube:sonarqube-scanner
+ceTaskId=AWSELWJHLbU4ro8mT098
+ceTaskUrl=http://192.168.0.101:9000/api/ce/task?id=AWSELWJHLbU4ro8mT098
